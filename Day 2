@@ -21,11 +21,11 @@ if condition {                            if condition {              if conditi
                                             }                                }                                 //Block of code                 // Statements
                                                                       else if condition3 {                     }                               break;
                                                                                //Block of code             }                                   case value3:
-                                                                            }                            else{                                 // Statements
+                                                                            }                            else {                                 // Statements
                                                                       else if condition4 {                    //Block of code                    break;  
                                                                                //Block of code             }                                   default:
                                                                             }                                                                  //Statements
-                                                                      else{                                                                  }
+                                                                      else {                                                                  }
                                                                                //Block of code        
                                                                            }
                          
