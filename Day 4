@@ -48,3 +48,14 @@ o/p: 'Jovo'
 String s="Hello";
 System.out.println(s.trim());
 o/p:"Hello"
+Object Oriented Programming structured Language
+A concentratic class is a regular class used to create objects.
+->Concrete Class
+->Abstract Class
+->Final Class 
+->Static Nested class
+->Inner Class
+->Local class
+->Anonymous class
+->Enum class
+->Interface
