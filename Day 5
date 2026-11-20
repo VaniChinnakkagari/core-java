@@ -1,0 +1,9 @@
+Pillars of Object Oriented Programming
+1)ENCAPSULATION: Wrapping of data
+Pillers of object oriented programming
+ENCAPSULATION: ->Wrapping of data
+Types of inheritance: ->There are 5 types of inheritance
+.Single inheritance ->One child class inherits from one parent class.
+.Multilevel Inheritance ->class inherits from another child class, forming a chain.
+.Hierarchical Inheritance ->Multiple child classes inherit from one parent class.
+-> Single inheritance syntax:
